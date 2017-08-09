@@ -1,0 +1,46 @@
+=== DW Fb Send/Like ===
+Contributors: Daniel Woolnough
+Donate link: http://www.danielwoolnough.com/contact/coffee/
+Tags: Facebook, fb, send, like, button, send button, like button, daniel, woolnough, 
+Requires at least: 3.0
+Tested up to: 3.2
+Version: 1.0
+
+Adds a Facebook Send and Like button to your WordPress posts and/or pages. Nice & Simple to use configuration.
+
+== Description ==
+
+# Add Facebook send & like buttons to your posts and/or pages
+# Option to insert the button to any posts, pages or both.
+# Option to insert the button after the content, before the content or both.
+# Plugin automatically include Open Graph Tags.
+# Display buttons in different languages
+# Very simple configuration.
+
+== Installation ==
+
+There are two ways to install this plugin.
+
+= Method 1 - WordPress Upload =
+1. Go to your add new plugins page and click on the upload link.
+2. Find where you have downloaded the file and upload it to your website.
+3. Activate the plugin once uploaded.
+4. Go to the `Settings->Facebook Like & Send Button` for customization options.
+
+= Method 2 - FTP Upload =
+
+1. Extract the downloaded file to your desktop.
+2. Upload `dw-admin-footer` folder to the `/wp-content/plugins/` directory using an FTP client.
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to the `Settings->Facebook Like & Send Button` for customization options.
+
+== Frequently Asked Questions ==
+
+= Is This Plugin Free? =
+Yes, This plugin is free to use and do whatever you want with it, use it on client website or your personal blog.
+
+= Can I choose to use one or both buttons? =
+Yes, you can show the "like" button in its own or the "Like" and "send" button together, or even use "reccomend" instead of the like button.
+
+= Change Log =
+Not Yet Available
